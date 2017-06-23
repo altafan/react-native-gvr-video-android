@@ -14,7 +14,7 @@ import java.util.List;
  * Created by piero on 22/06/17.
  */
 
-public class VrPackage implements ReactPackage {
+public class VideoPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         return Collections.emptyList();
