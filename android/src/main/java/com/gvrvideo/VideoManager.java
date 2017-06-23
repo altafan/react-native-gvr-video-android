@@ -17,7 +17,11 @@ import com.google.vr.sdk.widgets.video.VrVideoView;
 import java.io.IOException;
 
 /**
- * Created by piero on 17/06/17.
+ * VideoManager.java
+ *
+ * Created by Pietralberto Mazza on 22/06/17.
+ * Copyright © 2017 Facebook. All rights reserved.
+ *
  */
 
 public class VideoManager extends SimpleViewManager<VrVideoView> {
