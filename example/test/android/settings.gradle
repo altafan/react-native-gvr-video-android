@@ -1,0 +1,5 @@
+rootProject.name = 'test'
+include ':react-native-gvr-video-android'
+project(':react-native-gvr-video-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gvr-video-android/android')
+
+include ':app'
